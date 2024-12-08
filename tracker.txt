@@ -1,0 +1,15 @@
+Traverse the Spring Boot repository to identify all .java files.
+Categorize classes into simple POJOs/entities or those with methods.
+
+Generate Abstract Syntax Trees (ASTs) for classes with methods.
+Serialize the ASTs into JSON or XML format for Python processing.
+
+Generate basic JUnit test templates for simple POJOs/entities.
+
+Use parallel processing to optimize performance during class processing.
+
+Save the outputs (ASTs and test case files) in structured directories.
+
+https://chatgpt.com/c/674eca16-b7b8-8003-b312-d33eee8c7f93
+https://chatgpt.com/c/674ee50c-76e8-8003-af98-1f8a0f1df7cb?model=gpt-4o
+https://chatgpt.com/c/674da475-e6fc-8003-a326-bf663fedb44f
